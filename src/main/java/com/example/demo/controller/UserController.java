@@ -24,5 +24,5 @@ UserService userService;
         return userService.getUserDetails(id);
 
     }
-
+//    ToDo:Implement create user API .
 }
